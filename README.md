@@ -1,6 +1,6 @@
 # igloo_bucket
 
-# Manual Part:
+## Manual Part:
 ```bash
 Add column “segment” (note, lowercase)
 0: 2 min before
